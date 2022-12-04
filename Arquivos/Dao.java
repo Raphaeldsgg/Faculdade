@@ -1,3 +1,5 @@
+// Desenvolvedor 2 que conferiu e editou essa página.
+
 package com.example.sanduicheria;
 
 import androidx.lifecycle.LiveData;
